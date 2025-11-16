@@ -1,6 +1,6 @@
 *{
-    margin: 2px;
-    padding: 2px;
+    margin: 0px;
+    padding: 0px;
     box-sizing: border-box;
 }
 
@@ -13,7 +13,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 97vh;
+    height: 100vh;
     flex-direction: column;
 }
 
@@ -31,7 +31,7 @@ body {
     margin-bottom: 2px;
 }
 .display {
-     font-size: 50px;
+    font-size: 50px;
     font-family: 'Poppins', sans-serif;
     color: black;
     text-align: center;
